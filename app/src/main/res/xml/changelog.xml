@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+
+    <release
+        date="01/27/2017"
+        summary="App summary"
+        version="1.2"
+        versioncode="3" >
+        <change>
+As part of GLA University many features are customized as follows:
+        </change>
+        <change>
+1. Students should be able to view list of products grouped by categories.
+        </change>
+            <change>
+                    2. Many Other features are yet to come.
+            </change>
+
+    </release>
+    <release
+        date="01/27/2017"
+        version="1.2"
+        versioncode="2" >
+
+    </release>
+
+</changelog>
